@@ -1,0 +1,38 @@
+6
+Sama
+Hometown:KabulCity,Kabul
+34.555347
+69.207489
+blue
+#blue
+Sama
+Wannavisit:AokigaharaForest,Japan
+36.204823
+138.252930
+green
+Sama
+WannaVisit:Amsterdam,UnitedKingdom
+52.370216
+4.895168
+orange
+Thy
+wannavisit:MexicoCity,Mexico
+19.432608
+-99.133209
+lightblue
+Thy
+Hometown:HoChiMinh City,Vietnam
+10.82
+106.63
+purple
+Thy
+Want to visit: London,UnitedKingdom
+51.507351
+-0.127758
+red
+
+
+# NOTES:
+# 1) The first number represents the number of entries in the file. Make sure you update that number if you add more.
+# 2) No spaces between entries! The code doesn't handle blank lines.
+# 3) Don't forget the type of data for each line as you create the code
