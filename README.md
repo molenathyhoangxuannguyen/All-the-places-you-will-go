@@ -3,7 +3,7 @@
 
 Name 1: Thy Nguyen
 
-Name 2: Sama Manalai
+Name 2: No needed
 
 Name 3 (if needed): No needed
 
