@@ -1,6 +1,6 @@
 # T10: Oh, the Places You'll Go!
 
-Author: Thy Nguyen
+Author: Thy Nguyen (username: nguyent2)
 
 Repository Link: https://github.com/molenathyhoangxuannguyen/All-the-places-you-will-go 
 
