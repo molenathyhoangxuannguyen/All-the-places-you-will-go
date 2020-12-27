@@ -2,6 +2,6 @@
 
 Author: Thy Nguyen
 
-Repository Link: https://github.com/2019-fall-csc-226/t10-oh-the-places-you-ll-go-manalais-nguyent2-t10.git
+Repository Link: https://github.com/molenathyhoangxuannguyen/All-the-places-you-will-go 
 
 Google Document Link: https://docs.google.com/document/d/1A3SuRNnasdE9jIi3T-SvcoALYp5tYVhrX77Mnjog9Rc/edit?usp=sharing
