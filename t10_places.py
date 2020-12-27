@@ -10,7 +10,6 @@
 #           and to use tuples and lists correctly.
 ######################################################################
 # Acknowledgements: Berea College
-# Using the database (file "places.txt") from Sama Manalai (username: manalais)
 # Original Authors: Dr. Scott Heggen and Dr. Jan Pearce
 
 # licensed under a Creative Commons

@@ -1,32 +1,32 @@
 6
-Sama
-Hometown:KabulCity,Kabul
+Molena
+WantToVisit:KabulCity,Kabul
 34.555347
 69.207489
 blue
 #blue
-Sama
-Wannavisit:AokigaharaForest,Japan
+Molena
+WantToVisit:AokigaharaForest,Japan
 36.204823
 138.252930
 green
-Sama
-WannaVisit:Amsterdam,UnitedKingdom
+Molena
+WantToVisit:Amsterdam,UnitedKingdom
 52.370216
 4.895168
 orange
-Thy
-wannavisit:MexicoCity,Mexico
+Molena
+WantToVisit:MexicoCity,Mexico
 19.432608
 -99.133209
 lightblue
-Thy
+Molena
 Hometown:HoChiMinh City,Vietnam
 10.82
 106.63
 purple
-Thy
-Want to visit: London,UnitedKingdom
+Molena
+WantToVisit: London,UnitedKingdom
 51.507351
 -0.127758
 red
